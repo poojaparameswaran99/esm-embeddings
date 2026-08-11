@@ -1,0 +1,175 @@
+{
+  "model": "esm2_t33_650M_UR50D",
+  "device": "cuda",
+  "load_seconds": 9.012545588426292,
+  "results": [
+    {
+      "id": "A1L190",
+      "length": 88,
+      "load_plus_infer_seconds": 9.381449065171182,
+      "infer_seconds": 0.3689034767448902,
+      "peak_gpu_mb": 2692.628992
+    },
+    {
+      "id": "O00168",
+      "length": 92,
+      "load_plus_infer_seconds": 9.043437264859676,
+      "infer_seconds": 0.03089167643338442,
+      "peak_gpu_mb": 2692.84608
+    },
+    {
+      "id": "C9JLW8",
+      "length": 97,
+      "load_plus_infer_seconds": 9.042607309296727,
+      "infer_seconds": 0.030061720870435238,
+      "peak_gpu_mb": 2693.318144
+    },
+    {
+      "id": "A2RU14",
+      "length": 115,
+      "load_plus_infer_seconds": 9.042116546072066,
+      "infer_seconds": 0.029570957645773888,
+      "peak_gpu_mb": 2695.404032
+    },
+    {
+      "id": "A0PK11",
+      "length": 232,
+      "load_plus_infer_seconds": 9.048707737587392,
+      "infer_seconds": 0.03616214916110039,
+      "peak_gpu_mb": 2709.413376
+    },
+    {
+      "id": "A1L3X0",
+      "length": 281,
+      "load_plus_infer_seconds": 9.053949442692101,
+      "infer_seconds": 0.04140385426580906,
+      "peak_gpu_mb": 2714.99264
+    },
+    {
+      "id": "A1A519",
+      "length": 330,
+      "load_plus_infer_seconds": 9.06142573338002,
+      "infer_seconds": 0.04888014495372772,
+      "peak_gpu_mb": 2722.082304
+    },
+    {
+      "id": "A0JP26",
+      "length": 581,
+      "load_plus_infer_seconds": 9.08555225096643,
+      "infer_seconds": 0.07300666254013777,
+      "peak_gpu_mb": 2762.794496
+    },
+    {
+      "id": "A2A2Y4",
+      "length": 597,
+      "load_plus_infer_seconds": 9.08389758784324,
+      "infer_seconds": 0.07135199941694736,
+      "peak_gpu_mb": 2767.550976
+    },
+    {
+      "id": "A1A4S6",
+      "length": 786,
+      "load_plus_infer_seconds": 9.111562157049775,
+      "infer_seconds": 0.09901656862348318,
+      "peak_gpu_mb": 2819.492864
+    },
+    {
+      "id": "A0A1B0GTW7",
+      "length": 788,
+      "load_plus_infer_seconds": 9.111276252195239,
+      "infer_seconds": 0.09873066376894712,
+      "peak_gpu_mb": 2819.60448
+    },
+    {
+      "id": "A1X283",
+      "length": 911,
+      "load_plus_infer_seconds": 9.123491996899247,
+      "infer_seconds": 0.11094640847295523,
+      "peak_gpu_mb": 2858.572288
+    },
+    {
+      "id": "A6BM72",
+      "length": 1044,
+      "load_plus_infer_seconds": 9.142962981015444,
+      "infer_seconds": 0.13041739258915186,
+      "peak_gpu_mb": 2907.98592
+    },
+    {
+      "id": "A3KN83",
+      "length": 1393,
+      "load_plus_infer_seconds": 9.195538435131311,
+      "infer_seconds": 0.18299284670501947,
+      "peak_gpu_mb": 3060.377088
+    },
+    {
+      "id": "A0JNW5",
+      "length": 1464,
+      "load_plus_infer_seconds": 9.200667147524655,
+      "infer_seconds": 0.18812155909836292,
+      "peak_gpu_mb": 3096.758784
+    },
+    {
+      "id": "A6NKB5",
+      "length": 2137,
+      "load_plus_infer_seconds": 9.31339857634157,
+      "infer_seconds": 0.3008529879152775,
+      "peak_gpu_mb": 3525.15584
+    },
+    {
+      "id": "O00507",
+      "length": 2555,
+      "load_plus_infer_seconds": 9.373606879264116,
+      "infer_seconds": 0.36106129083782434,
+      "peak_gpu_mb": 3862.89152
+    },
+    {
+      "id": "A6H8Y1",
+      "length": 2624,
+      "load_plus_infer_seconds": 9.383444515056908,
+      "infer_seconds": 0.3708989266306162,
+      "peak_gpu_mb": 3924.458496
+    },
+    {
+      "id": "P22105",
+      "length": 4244,
+      "load_plus_infer_seconds": 9.750985011458397,
+      "infer_seconds": 0.738439423032105,
+      "peak_gpu_mb": 5832.107008
+    },
+    {
+      "id": "Q685J3",
+      "length": 4493,
+      "load_plus_infer_seconds": 9.800315171480179,
+      "infer_seconds": 0.7877695830538869,
+      "peak_gpu_mb": 6202.882048
+    },
+    {
+      "id": "O95714",
+      "length": 4834,
+      "load_plus_infer_seconds": 9.899180222302675,
+      "infer_seconds": 0.8866346338763833,
+      "peak_gpu_mb": 6740.255744
+    },
+    {
+      "id": "Q8WXG9",
+      "length": 6306,
+      "load_plus_infer_seconds": 10.337828706018627,
+      "infer_seconds": 1.3252831175923347,
+      "peak_gpu_mb": 9483.122176
+    },
+    {
+      "id": "Q9UPN3",
+      "length": 7388,
+      "load_plus_infer_seconds": 10.749871062114835,
+      "infer_seconds": 1.7373254736885428,
+      "peak_gpu_mb": 11962.713088
+    },
+    {
+      "id": "Q7Z5P9",
+      "length": 8384,
+      "load_plus_infer_seconds": 11.189709816128016,
+      "infer_seconds": 2.1771642277017236,
+      "peak_gpu_mb": 14575.932928
+    }
+  ]
+}
