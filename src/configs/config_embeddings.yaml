@@ -1,0 +1,12 @@
+defaults:
+  - _self_
+  - override hydra/launcher: joblib
+esm: esm2_15b
+seqfile: '/hpc/group/soderlinglab/user/pooja/projects/Biotin/src/data/new_inference/11101_SupplementalData_Normalized_101025.csv'
+IDcol: 'Accession'
+seqcol: 'seq'
+average_pool: False 
+seqtype: protein
+project_name: Biotin
+overwrite: False 
+output_dir: /cwork/pkp14/${project_name}/${esm}_embeds #${seqtype}
